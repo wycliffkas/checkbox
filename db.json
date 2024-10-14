@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Create a React Project"
+    },
+    {
+      "id": 2,
+      "name": "Copy everything to App.tsx"
+    },
+    {
+      "id": 3,
+      "name": "Split into different components"
+    }
+  ]
+}
